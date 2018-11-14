@@ -1,0 +1,19 @@
+{
+  "name": "teenageassistant",
+  "version": "1.0.0",
+  "description": "teenage rebellious ninja assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google-assistant",
+    "teenager",
+    "rebellion"
+  ],
+  "author": "Alex Dacre <alex@alexdacre.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^0.7.0"
+  }
+}
