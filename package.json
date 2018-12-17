@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "teenage rebellious ninja assistant",
   "main": "index.js",
+  "homepage": "https://teen-courtney.netlify.com/",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
