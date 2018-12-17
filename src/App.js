@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
@@ -23,6 +22,10 @@ class App extends Component {
           title="Teen Courtney"
           src="https://console.dialogflow.com/api-client/demo/embedded/teenage-courtney">
         </iframe>
+
+        <p className="attribution">
+          Favicon icon is Teenage Girl by Graphic Enginer from the Noun Project
+        </p>
       </div>
     );
   }

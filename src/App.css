@@ -40,3 +40,8 @@ iframe {
   margin: 20px;
   box-shadow: 1px 1px 2px black;
 }
+
+.attribution {
+  margin-top: 40px;
+  font-size: 10px;
+}
